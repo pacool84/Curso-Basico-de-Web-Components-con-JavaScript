@@ -23,11 +23,11 @@ ES Modules.- Utilizar codigo javascript de un documento en otro documento.
 
 ## Beneficios
 
-*Reutilizacion .- Don´t repeat yourself.
-*Legibilidad .- Agrega entendimiento al codigo.
-*Mantenibilidad .- Cada uno de los componentes pueden ser escritos y probados individualmente.
-*Interoperabilidad .- Estan hechos para coexistir entre frameworks y librerias.
-\*Consistencia .- No es necesario crear los mismos componentes mas de una vez, Template.
+Reutilizacion .- Don´t repeat yourself.
+Legibilidad .- Agrega entendimiento al codigo.
+Mantenibilidad .- Cada uno de los componentes pueden ser escritos y probados individualmente.
+Interoperabilidad .- Estan hechos para coexistir entre frameworks y librerias.
+Consistencia .- No es necesario crear los mismos componentes mas de una vez, Template.
 
 ## Ciclo de Vida de los Web Components
 Constructor
